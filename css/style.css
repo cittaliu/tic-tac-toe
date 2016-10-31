@@ -15,10 +15,13 @@ button{
   font-weight: bolder;
 }
 .box {
-  border: 1px solid black;
+  border: 1px solid grey;
   height: 150px;
   text-align: center;
   font-size: 75px;
   padding-top: 20px;
   font-weight: bold;
+}
+.box:hover {
+  border: 3px solid black;
 }
