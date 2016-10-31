@@ -1,11 +1,24 @@
 #board {
   margin-top: 10px;
 }
-
+h1{
+  font-size: 60px;
+  font-style: italic;
+  font-weight: bold;
+}
+.msg{
+  font-size: 20px;
+}
 button{
   margin: 10px auto;
+  font-style: oblique;
+  font-weight: bolder;
 }
 .box {
   border: 1px solid black;
   height: 150px;
+  text-align: center;
+  font-size: 75px;
+  padding-top: 20px;
+  font-weight: bold;
 }
